@@ -1,0 +1,19 @@
+primary color: #3fbbc0;
+text- color: #676767;
+doctor-section background: #f7fcfc;
+footer background color: #f6f6f6;
+footer part2 bg color: #eeeeee;
+
+
+
+responsivlik:
+feature:: col-lg-3 -- col-md-6 -- col-12
+labartory:: col-lg-6 col-12
+doctors: col-lg-3 -- col-12
+contact: col-lg-6 col-12
+contact: col-6nin icindeki divler: col-md-12 col-md-6 == col-12
+
+footer: lg-ler col-md-6 col-12
+
+
+
